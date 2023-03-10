@@ -1,0 +1,422 @@
+.home-child {
+    position: absolute;
+    top: 2047px;
+    left: 0;
+    background: linear-gradient(243.18deg, #9b00ff, rgba(5, 25, 55, 0), #051937);
+    width: 1440px;
+    height: 1024px;
+    display: none;
+  }
+  .home-item {
+    top: 1024px;
+    left: 0;
+    background: linear-gradient(-63.18deg, #9b00ff, rgba(5, 25, 55, 0), #051937);
+    filter: blur(100px);
+    height: 1476px;
+  }
+  .group-child,
+  .home-inner,
+  .home-item {
+    position: absolute;
+    width: 1440px;
+  }
+  .home-inner {
+    top: 50px;
+    left: 60px;
+    background: linear-gradient(242.86deg, #9b00ff, rgba(5, 25, 55, 0), #051937);
+    filter: blur(100px);
+    height: 1024px;
+  }
+  .group-child {
+    bottom: -379px;
+    left: 1440px;
+    background: linear-gradient(267.01deg, #022976, rgba(64, 168, 163, 0.3));
+    height: 379px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+  }
+  .designwithlove-child {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 50px;
+  }
+  .designed-and-developed {
+    position: absolute;
+    bottom: 25px;
+    left: 401px;
+    line-height: 0%;
+    display: inline-block;
+    width: 638.88px;
+  }
+  .designwithlove {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 50px;
+    font-size: 15px;
+  }
+  .icons8-gmail-120,
+  .icons8-place-marker-96 {
+    position: absolute;
+    bottom: 253px;
+    left: 936px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  .icons8-gmail-120 {
+    bottom: 204px;
+  }
+  .acmpccoepuneorg,
+  .contact-us,
+  .pimpri-chinchwad-college {
+    position: absolute;
+    bottom: 114px;
+    left: 0;
+    display: inline-block;
+    width: 402.07px;
+  }
+  .acmpccoepuneorg,
+  .contact-us {
+    bottom: 65px;
+    width: 189.45px;
+  }
+  .contact-us {
+    bottom: 163px;
+    color: #99ffef;
+    width: 104.8px;
+  }
+  .icons8-twitter-120-1,
+  .theme-2-icon {
+    position: absolute;
+    bottom: 0;
+    left: 105.81px;
+    width: 40.31px;
+    height: 40px;
+    object-fit: cover;
+  }
+  .icons8-twitter-120-1 {
+    bottom: 5px;
+    left: 55.42px;
+    width: 30.23px;
+    height: 30px;
+  }
+  .icons8-facebook-120,
+  .icons8-linkedin-120,
+  .icons8-youtube-120-2 {
+    position: absolute;
+    bottom: 3px;
+    left: 166.27px;
+    width: 35.27px;
+    height: 35px;
+    object-fit: cover;
+  }
+  .icons8-linkedin-120,
+  .icons8-youtube-120-2 {
+    left: 0;
+  }
+  .icons8-youtube-120-2 {
+    bottom: 5px;
+    left: 221.69px;
+    width: 32.25px;
+    height: 32px;
+  }
+  .pimpri-chinchwad-college-of-en-parent {
+    position: absolute;
+    bottom: 137px;
+    left: 976.46px;
+    width: 402.07px;
+    height: 187px;
+  }
+  .anantya,
+  .b {
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    display: inline-block;
+    width: 375.87px;
+  }
+  .b {
+    bottom: 0;
+    left: 131px;
+    font-size: 50px;
+    width: 112.86px;
+  }
+  .anantya-parent {
+    position: absolute;
+    bottom: 152px;
+    left: 50.38px;
+    width: 375.87px;
+    height: 136px;
+    font-size: 80px;
+  }
+  .about,
+  .calendar,
+  .events,
+  .home1 {
+    position: absolute;
+    bottom: 251px;
+    left: 589.5px;
+    display: inline-block;
+    width: 53.41px;
+  }
+  .about,
+  .calendar,
+  .events {
+    left: 681.2px;
+    width: 54.42px;
+  }
+  .calendar,
+  .events {
+    bottom: 202px;
+    left: 589.5px;
+    width: 58.45px;
+  }
+  .calendar {
+    left: 681.2px;
+    width: 82.63px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 1440px;
+    height: 379px;
+    font-family: var(--font-urbanist);
+  }
+  .home-child1,
+  .home-child2,
+  .home-child3,
+  .rectangle-div {
+    position: absolute;
+    top: 1721px;
+    left: 243px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-gainsboro);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);
+    width: 224px;
+    height: 250px;
+  }
+  .home-child1,
+  .home-child2,
+  .home-child3 {
+    left: 487px;
+  }
+  .home-child2,
+  .home-child3 {
+    left: 730px;
+  }
+  .home-child3 {
+    left: 973px;
+  }
+  .arrow-child,
+  .arrow-item {
+    position: absolute;
+    top: 43.22px;
+    left: 0.72px;
+    border-radius: 0 0 0 var(--br-3xs);
+    background-color: var(--color-white);
+    width: 34.08px;
+    height: 10.22px;
+    transform: rotate(-48.43deg);
+    transform-origin: 0 0;
+  }
+  .arrow-item {
+    top: 0;
+    left: 7.23px;
+    border-radius: var(--br-3xs) 0 0 0;
+    transform: rotate(45deg);
+  }
+  .arrow {
+    position: absolute;
+    top: 1821px;
+    left: 1257px;
+    width: 31.33px;
+    height: 50px;
+  }
+  .arrow-inner {
+    top: 43.22px;
+    left: -0.72px;
+    border-radius: 0 0 0 var(--br-3xs);
+    background-color: var(--color-white);
+    width: 34.08px;
+    height: 10.22px;
+    transform: rotate(-131.57deg);
+  }
+  .arrow-child1,
+  .arrow-inner,
+  .arrow1 {
+    position: absolute;
+    transform-origin: 0 0;
+  }
+  .arrow-child1 {
+    top: 0;
+    left: -7.23px;
+    border-radius: var(--br-3xs) 0 0 0;
+    background-color: var(--color-white);
+    width: 34.08px;
+    height: 10.22px;
+    transform: rotate(135deg);
+  }
+  .arrow1 {
+    top: 1821px;
+    left: 183.33px;
+    width: 31.33px;
+    height: 50px;
+    transform: rotate(180deg);
+  }
+  .our-sponsors {
+    position: absolute;
+    top: 1533px;
+    left: 395px;
+    font-size: 85px;
+    backdrop-filter: blur(4px);
+  }
+  .ellipse-icon,
+  .home-child4,
+  .home-child5 {
+    position: absolute;
+    top: 2021px;
+    left: 710px;
+    width: 20px;
+    height: 20px;
+  }
+  .home-child4,
+  .home-child5 {
+    left: 760px;
+  }
+  .home-child5 {
+    left: 660px;
+  }
+  .icon {
+    position: absolute;
+    left: 253px;
+    object-fit: cover;
+  }
+  .icon,
+  .icon1,
+  .icon2 {
+    top: 1731px;
+    border-radius: var(--br-mini);
+    width: 204px;
+    height: 225px;
+  }
+  .icon1 {
+    position: absolute;
+    left: 497px;
+    object-fit: cover;
+  }
+  .icon2 {
+    left: 740px;
+  }
+  .icon2,
+  .icon3,
+  .mask-group-icon {
+    position: absolute;
+    object-fit: cover;
+  }
+  .icon3 {
+    top: 1731px;
+    left: 983px;
+    border-radius: var(--br-mini);
+    width: 204px;
+    height: 225px;
+  }
+  .mask-group-icon {
+    top: 0;
+    left: 0;
+    width: 1236px;
+    height: 550px;
+  }
+  .contrary-to-popular {
+    position: absolute;
+    top: 190px;
+    left: 141px;
+    display: flex;
+    align-items: center;
+    width: 955px;
+    height: 306px;
+  }
+  .anantya1 {
+    position: absolute;
+    top: 54px;
+    left: 141px;
+    font-size: 100px;
+    letter-spacing: 0.1em;
+    font-family: var(--font-play);
+  }
+  .about1 {
+    position: absolute;
+    top: 904px;
+    left: 102px;
+    width: 1236px;
+    height: 550px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  .astro-1-icon {
+    position: absolute;
+    top: 680px;
+    left: 934px;
+    width: 518px;
+    height: 414px;
+    object-fit: cover;
+  }
+  .navbar-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: #001936;
+    width: 1236px;
+    height: 80px;
+    opacity: 0.8;
+    mix-blend-mode: luminosity;
+  }
+  .anantya2 {
+    position: absolute;
+    top: 22px;
+    left: 43px;
+    font-size: 30px;
+    mix-blend-mode: normal;
+  }
+  .about2 {
+    position: absolute;
+    top: 28px;
+    left: 862px;
+  }
+  .calendar1,
+  .events1,
+  .navbar {
+    position: absolute;
+    top: 28px;
+    left: 984px;
+  }
+  .calendar1,
+  .navbar {
+    left: 1106px;
+  }
+  .navbar {
+    top: 30px;
+    left: 102px;
+    width: 1236px;
+    height: 80px;
+    mix-blend-mode: normal;
+  }
+  .home {
+    position: relative;
+    background-color: #051937;
+    width: 100%;
+    height: 2500px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-play);
+  }
+  

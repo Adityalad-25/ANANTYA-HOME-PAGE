@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-play: Play;
+    --font-poppins: Poppins;
+    --font-urbanist: Urbanist;
+  
+    /* font sizes */
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro: #d9d9d9;
+  
+    /* border radiuses */
+    --br-mini: 15px;
+    --br-3xs: 10px;
+  }
+  
